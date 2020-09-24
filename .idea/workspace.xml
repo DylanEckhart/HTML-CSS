@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9c3ae4-3d1b-4677-8540-7ee4ab9c0eac" name="Default Changelist" comment="1.1">
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/HO1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/HO1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +71,7 @@
       <updated>1600868161015</updated>
       <workItem from="1600868162280" duration="145000" />
       <workItem from="1600868389892" duration="275000" />
-      <workItem from="1600947943241" duration="440000" />
+      <workItem from="1600947943241" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="1.1">
       <created>1600868520915</created>
@@ -82,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600948004018</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.1">
+      <created>1600948414094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600948414095</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,10 +118,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="193" key="Vcs.Push.Dialog.v2" timestamp="1600948007513">
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2" timestamp="1600948415570">
       <screen x="0" y="23" width="1920" height="978" />
     </state>
-    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1600948007513" />
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1600948415570" />
     <state x="320" y="162" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1600868523521" />
   </component>
 </project>
