@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9c3ae4-3d1b-4677-8540-7ee4ab9c0eac" name="Default Changelist" comment="1.22">
-      <change beforePath="$PROJECT_DIR$/docs/tabellen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tabellen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/wilkenselektriciteit/img/elektriciteit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/wilkenselektriciteit/img/wilkens_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/wilkenselektriciteit/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/wilkenselektriciteit/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -54,6 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -91,7 +97,8 @@
       <workItem from="1600971764050" duration="305000" />
       <workItem from="1601022252646" duration="6529000" />
       <workItem from="1601039113034" duration="234000" />
-      <workItem from="1601363005385" duration="2143000" />
+      <workItem from="1601363005385" duration="3001000" />
+      <workItem from="1601448213492" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="1.1">
       <created>1600868520915</created>
@@ -226,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601367380683</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="1.22">
+      <created>1601367951037</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601367951037</updated>
+    </task>
+    <task id="LOCAL-00021" summary="1.22">
+      <created>1601367992855</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601367992855</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,10 +272,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.22" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="193" key="Vcs.Push.Dialog.v2" timestamp="1601367382296">
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2" timestamp="1601367994233">
       <screen x="0" y="23" width="1920" height="978" />
     </state>
-    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1601367382296" />
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1601367994233" />
     <state x="240" y="341" key="Vcs.Push.Dialog.v2/0.23.1080.1828@0.23.1080.1828" timestamp="1600957013426" />
     <state x="320" y="162" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1601039961444" />
   </component>
