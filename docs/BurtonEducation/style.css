@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+div#wrapper {
+    margin: auto;
+    width: 1000px;
+    background-color: rgb(251, 235, 235);
+    padding: 20px;
+}
+
+body {
+    font-family: Arial;
+}
+
+nav {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+section {
+    width: 50%;
+}
