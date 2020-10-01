@@ -32,9 +32,10 @@ section.visuals {
 }
 
 img.appel {
-    width: 450px;
+    width: 492px;
 }
 
 img.visuals {
-    width: 450px;
+    width: 447px;
+    margin-bottom: 11px;
 }
