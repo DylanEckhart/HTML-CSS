@@ -39,3 +39,14 @@ img.visuals {
     width: 447px;
     margin-bottom: 11px;
 }
+
+article {
+    display: inline-block;
+    width: 33%;
+    padding-right: 10px;
+    vertical-align: top;
+}
+
+article:last-child {
+    padding-right: 0px;
+}
