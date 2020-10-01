@@ -19,8 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9c3ae4-3d1b-4677-8540-7ee4ab9c0eac" name="Default Changelist" comment="Colors in table are added">
-      <change beforePath="$PROJECT_DIR$/docs/WilkensElektriciteit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/WilkensElektriciteit/index.html" afterDir="false" />
+    <list default="true" id="fb9c3ae4-3d1b-4677-8540-7ee4ab9c0eac" name="Default Changelist" comment="Wrong color was changed">
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/appel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/burton_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/bus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/desk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/football.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/IMG/pythagoras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +108,9 @@
       <workItem from="1601039113034" duration="234000" />
       <workItem from="1601363005385" duration="3001000" />
       <workItem from="1601448213492" duration="1292000" />
-      <workItem from="1601449570788" duration="1323000" />
+      <workItem from="1601449570788" duration="3463000" />
+      <workItem from="1601469110188" duration="299000" />
+      <workItem from="1601534312509" duration="973000" />
     </task>
     <task id="LOCAL-00001" summary="1.1">
       <created>1600868520915</created>
@@ -286,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601450862058</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Wrong color was changed">
+      <created>1601450928874</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1601450928874</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,13 +332,14 @@
     <MESSAGE value="1.22" />
     <MESSAGE value="Renames directory's and diversa" />
     <MESSAGE value="Colors in table are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Colors in table are added" />
+    <MESSAGE value="Wrong color was changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrong color was changed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="193" key="Vcs.Push.Dialog.v2" timestamp="1601450863428">
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2" timestamp="1601450930674">
       <screen x="0" y="23" width="1920" height="978" />
     </state>
-    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1601450863428" />
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1601450930674" />
     <state x="240" y="341" key="Vcs.Push.Dialog.v2/0.23.1080.1828@0.23.1080.1828" timestamp="1600957013426" />
     <state x="320" y="162" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1601039961444" />
   </component>
