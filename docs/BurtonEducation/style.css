@@ -1,3 +1,4 @@
+/*index.html*/
 * {
     box-sizing: border-box;
 }
@@ -65,4 +66,87 @@ footer {
 
 footer a {
     color: white;
+}
+
+/*formulier.html*/
+.secone {
+
+}
+
+.listone {
+    list-style-type: none;
+    padding: 0;
+}
+
+.listone li {
+    padding: 0px;
+}
+
+.input {
+    padding: 20px;
+    width: 380px;
+}
+
+.input input {
+    float: right;
+}
+
+.input label {
+    vertical-align: top;
+}
+
+.input textarea {
+    float: right;
+    width: 200px;
+    height: 100px;
+}
+
+.input select {
+    float: right;
+}
+
+.input2 {
+
+    padding: 20px;
+    width: 380px;
+}
+
+.vrouw {
+    display: inline;
+    float: right;
+}
+
+.man {
+    display: inline;
+    position: relative;
+    left: 100px;
+}
+
+.sectwo {
+    width: 250px;
+    position: absolute;
+    top: 70px;
+    left: 400px;
+}
+
+.sectwo ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.inut2 {
+    display: inline;
+    position: relative;
+    left: 150px;
+}
+
+.label{
+    position: relative;
+    top: 17px;
+}
+
+.buttons{
+    text-align: right;
+    width: 600px;
 }

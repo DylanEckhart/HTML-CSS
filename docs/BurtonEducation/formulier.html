@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Inlog Burton Education</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+        body {
+            background-color: rgb(251, 235, 235);
+        }
+    </style>
+</head>
+<body>
+    <form action="http://voormbo.nl/courses/html5/formtest.php" method="post">
+        <H2>Formulier Burton Education</h2>
+        <div class="secone">
+            <ul class="listone">
+                </li>
+
+                <li>
+                    <div class="input">
+                        <label for="voornaam">Voornaam:</label>
+                        <input type="text" name="voornaam" required />
+                    </div>
+                </li>
+                <li>
+                    <div class="input">
+                        <label for="achternaam">Achternaam:</label>
+                        <input type="text" name="achternaam" required />
+                    </div>
+                </li>
+                <li>
+                    <div class="input2">
+                        <label for="geslacht">Geslacht:</label>
+                        <div class="man"><input name="geslacht" type="radio" value="man">&nbsp;Man</div>
+                        <div class="vrouw"><input name="geslacht" type="radio" value="vrouw">&nbsp;Vrouw</div>
+                        </divclass>
+                </li>
+                <li>
+                    <div class="input">
+                        <label for="oogkleur">Oogkleur:</label>
+                        <select name="oogkleur">
+                            <option>Groen</option>
+                            <option>Blauw</option>
+                            <option>Bruin</option>
+                        </select>
+                    </div>
+                </li>
+                <li>
+                    <div class="input">
+                        <label for="birthday">Geboortedatum:</label>
+                        <input type="date" name="birthday" required />
+                    </div>
+                </li>
+                <li>
+                    <div class="input">
+                        <label for="beschrijving">Omschrijving:</label>
+                        <textarea name="beschrijving"/></textarea>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="sectwo">
+
+            <ul>
+                <li>
+                    <label for="lekkereten" class="label">Favoriete gerecht:</label><br>
+                    <div class="inut2"><input type="checkbox" name="lekkereten" value="sperciebonen" />&nbsp;Groente</div>
+                </li>
+                <li>
+                    <div class="inut2"><input type="checkbox" name="lekkereten" value="aardappelen" />&nbsp;Chinees</div>
+                </li>
+                <li>
+                    <div class="inut2"><input type="checkbox" name="lekkereten" value="hamburger" />&nbsp;Hamburgers</div>
+                </li>
+
+            </ul>
+        </div>
+        <br><br><br><br><br><br>
+        <div class="buttons">
+            <input type="submit" name="knop">
+            <input type="reset">
+        </div>
+    </form>
+</body>
+</html>

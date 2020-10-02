@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9c3ae4-3d1b-4677-8540-7ee4ab9c0eac" name="Default Changelist" comment="Footer is added and fixed in stylesheet">
-      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/BurtonEducation/formulier.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/BurtonEducation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BurtonEducation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BurtonEducation/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BurtonEducation/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BurtonEducation/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BurtonEducation/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +103,7 @@
       <workItem from="1601469110188" duration="299000" />
       <workItem from="1601534312509" duration="3906000" />
       <workItem from="1601549243040" duration="4406000" />
-      <workItem from="1601621006063" duration="1073000" />
+      <workItem from="1601621006063" duration="2857000" />
     </task>
     <task id="LOCAL-00001" summary="1.1">
       <created>1600868520915</created>
@@ -355,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601564298599</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Footer is added and fixed in stylesheet">
+      <created>1601623834944</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1601623834944</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,10 +394,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Footer is added and fixed in stylesheet" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="162" key="Vcs.Push.Dialog.v2" timestamp="1601564299932">
-      <screen x="0" y="23" width="1440" height="798" />
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2" timestamp="1601623837331">
+      <screen x="0" y="23" width="1920" height="978" />
     </state>
-    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1601543190744" />
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1601623837331" />
     <state x="240" y="341" key="Vcs.Push.Dialog.v2/0.23.1080.1828@0.23.1080.1828" timestamp="1600957013426" />
     <state x="320" y="162" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1601564299932" />
   </component>
