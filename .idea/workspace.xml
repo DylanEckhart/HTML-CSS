@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9c3ae4-3d1b-4677-8540-7ee4ab9c0eac" name="Default Changelist" comment="Changed font in login.html and formulier.html">
-      <change beforePath="$PROJECT_DIR$/docs/BurtonEducation/formulier.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BurtonEducation/formulier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/BurtonEducation/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/BurtonEducation/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BurtonEducation/IMG/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BurtonEducation/IMG/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BurtonEducation/IMG/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/BurtonEducation/IMG/4.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +103,8 @@
       <workItem from="1601469110188" duration="299000" />
       <workItem from="1601534312509" duration="3906000" />
       <workItem from="1601549243040" duration="4406000" />
-      <workItem from="1601621006063" duration="3496000" />
+      <workItem from="1601621006063" duration="6155000" />
+      <workItem from="1601663769939" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="1.1">
       <created>1600868520915</created>
@@ -375,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601625921557</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Changed font in login.html and formulier.html">
+      <created>1601626070770</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1601626070770</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,10 +417,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Changed font in login.html and formulier.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="193" key="Vcs.Push.Dialog.v2" timestamp="1601625922601">
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2" timestamp="1601626072865">
       <screen x="0" y="23" width="1920" height="978" />
     </state>
-    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1601625922601" />
+    <state x="427" y="193" key="Vcs.Push.Dialog.v2/-1080.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1601626072865" />
     <state x="240" y="341" key="Vcs.Push.Dialog.v2/0.23.1080.1828@0.23.1080.1828" timestamp="1600957013426" />
     <state x="320" y="162" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1601564299932" />
   </component>
