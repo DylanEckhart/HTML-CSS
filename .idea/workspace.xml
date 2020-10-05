@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9c3ae4-3d1b-4677-8540-7ee4ab9c0eac" name="Default Changelist" comment="Changed font in login.html and formulier.html">
-      <change afterPath="$PROJECT_DIR$/docs/Truemusic/IMG/drums.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Truemusic/IMG/gitaar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Truemusic/IMG/saxofoon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Truemusic/IMG/trompet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Truemusic/IMG/truemusic-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Truemusic/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Truemusic/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fb9c3ae4-3d1b-4677-8540-7ee4ab9c0eac" name="Default Changelist" comment="New directory, True Music website" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +100,7 @@
       <workItem from="1601621006063" duration="6155000" />
       <workItem from="1601663769939" duration="17000" />
       <workItem from="1601663826566" duration="828000" />
-      <workItem from="1601879790192" duration="1698000" />
+      <workItem from="1601879790192" duration="2025000" />
     </task>
     <task id="LOCAL-00001" summary="1.1">
       <created>1600868520915</created>
@@ -398,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601663872169</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="New directory, True Music website">
+      <created>1601881963063</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1601881963063</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +424,8 @@
     <MESSAGE value="Changes in stylesheet" />
     <MESSAGE value="Footer is added and fixed in stylesheet" />
     <MESSAGE value="Changed font in login.html and formulier.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed font in login.html and formulier.html" />
+    <MESSAGE value="New directory, True Music website" />
+    <option name="LAST_COMMIT_MESSAGE" value="New directory, True Music website" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="162" key="Vcs.Push.Dialog.v2" timestamp="1601663878899">

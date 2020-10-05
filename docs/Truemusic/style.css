@@ -85,6 +85,7 @@ footer h3 {
     }
 
     #news {
+        position: absolute;
         width: 40%;
         float: left;
     }
@@ -101,6 +102,7 @@ footer h3 {
 
 @media all and (min-width: 920px) {
     #news {
+        position: absolute;
         width: 30%;
         float: left;
     }
