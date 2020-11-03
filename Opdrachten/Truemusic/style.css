@@ -103,7 +103,7 @@ footer h3 {
 @media all and (min-width: 920px) {
     #news {
         position: absolute;
-        width: 30%;
+        width: 25%;
         float: left;
     }
 
@@ -124,6 +124,11 @@ footer h3 {
 }
 
 @media all and (min-width: 1200px) {
+    #news {
+        position: absolute;
+        width: 20%;
+        float: left;
+    }
     #wrapper {
         width: 1200px;
         margin: auto;
